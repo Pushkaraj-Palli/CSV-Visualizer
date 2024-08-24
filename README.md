@@ -30,3 +30,6 @@ CSV Visualizer: Transform your CSV data into stunning, interactive plots in seco
 + upload any .csv file to it! or use Sample_Data.csv for reference
 
 ## Screenshots
+![img1](https://github.com/user-attachments/assets/02e8c0f1-b422-41b1-8d5c-8a6d9d6086c7)
+![img2](https://github.com/user-attachments/assets/e27f756b-6cd5-4e08-a1ad-df169ea957e6)
+![img3](https://github.com/user-attachments/assets/f5543eca-bac3-4545-a38c-57070e1157e6)
